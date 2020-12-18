@@ -5,6 +5,6 @@ Each folder is the model trained and tested on data up until the date named on f
 
 Inside each folder is the utility and model notebooks used to generate results, data used, static weights from EN-CoF, and time-series data plotted with forecasts for each country.
 
-DOI pending and submitted for publication.
+Paper approved for conference publication, presenting on Dec 21, DOI pending.
 
 If referenced here from paper, view the 2020_12_17 folder.
