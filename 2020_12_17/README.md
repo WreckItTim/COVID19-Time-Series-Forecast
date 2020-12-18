@@ -4,7 +4,7 @@ code folder contains jupyter notebooks used to train and evaluate models.
   model.ipynb is a seperate notebook for each model, with grid searches and results from each.
   utils.ipynb has several functions used during development.
   
-figures folder contains all images used in paper.
-  countries.pdf contains all images referenced in paper, comparing raw counts to average counts and expected to forecasted for each country.
+figures folder contains all figures used in paper, and others.
+  countries.pdf contains the images referenced in paper, that compare raw counts to average counts and expected to forecasted for each country.
   
 COVID-19-geographic-disbtribution-worldwide-2020-12-11.csv is data from ECDC used in paper.
