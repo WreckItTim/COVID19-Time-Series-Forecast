@@ -1,5 +1,5 @@
 code folder contains jupyter notebooks used to train and evaluate models.
-  main.ipynb contains main code needed to read and process data, as well as run and evaluate all models. Contains results for EN-CoF and baseline, and data figures.
+  main.ipynb contains main code needed to read and process data, as well as run and evaluate all models; and contains results for EN-CoF and baseline, and data figures.
   versus_time.ipynb shows code used to evaluate accuracy dependency on the testing month and forecasting further into the future.
   model.ipynb is a seperate notebook for each model, with grid searches and results from each.
   utils.ipynb has several functions used during development.
