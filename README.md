@@ -1,5 +1,5 @@
 # COVID19-Time-Series-Forecast
-Machine Learning for predicting trends in the number of COVID-19 cases. Files pending publication.
+Machine Learning for predicting trends in the number of COVID-19 cases. https://ieeexplore.ieee.org/document/9311968.
 
 Each folder is the model trained and tested on data up until the date named on folder following the convention: "YYYY_MM_DD". 
 
